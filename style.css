@@ -72,7 +72,7 @@ p{
 .container-flower{
 	height:400px;
 margin-bottom:50px;
-background:rgba(235, 117, 117, 0.3);
+background:rgba(235, 117, 117, 0.5);
 
 
 }
@@ -92,7 +92,7 @@ background:rgba(235, 117, 117, 0.3);
 .container-funny{
 	height:355px;
 	margin-bottom:50px;
-	background:rgba(235, 117, 117, 0.3);
+	background:rgba(235, 117, 117, 0.5);
 }
 .gif{
 	width: 250px;
@@ -145,7 +145,7 @@ color:#d6c5d6;
    white-space: pre-line; /* не нужен <br> */ 
   word-wrap: break-word;
   margin-top:100px;
-  background:rgba(235, 117, 117, 0.3);
+  background:rgba(235, 117, 117, 0.5);
    border: 1px solid #E7D5C0;
    padding:5px;
 }
